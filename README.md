@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://drive.google.com/thumbnail?id=1CmDErzVjBTQM1pVxBsiMdxk8cPTheryX&sz=s4000" alt="Banner" width="100%">
+</p>
 <h1>Hi 👋, I'm Vidhal Elame</h1>
 <p>A passionate fullstack developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
