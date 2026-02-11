@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/thumbnail?id=1CmDErzVjBTQM1pVxBsiMdxk8cPTheryX&sz=s4000" alt="Banner" width="100%">
+  <img src="https://drive.google.com/thumbnail?id=1CO0Ixt1s37wFF6nojjOO4r1jgwTGIwd4&sz=s4000" alt="Banner" width="100%">
 </p>
 <h1>Hi 👋, I'm Vidhal Elame</h1>
 <p>A passionate fullstack developer</p>
