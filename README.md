@@ -44,9 +44,26 @@
 </table>
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/marsile-vidhal-elame-0543b5178/">
-  <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-</a></p>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/marsile-vidhal-elame-0543b5178/">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+  <a target="_blank" href="https://x.com/TerraVidhal">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+  </a>
+  <a target="_blank" href="https://marsiledevs.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
+  <a target="_blank" href="https://saaskit-theta.vercel.app/">
+    <img src="https://img.shields.io/badge/saaskit-black?style=for-the-badge&logo=vercel&logoColor=white" alt="saaskit" />
+  </a>
+  <a target="_blank" href="https://www.html5gent.com/">
+    <img src="https://img.shields.io/badge/html5gent-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="html5gent" />
+  </a>
+  <a target="_blank" href="https://ko-fi.com/terravidhal">
+    <img src="https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="ko-fi" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/terravidhal/terravidhal/output/github-snake-dark.svg" />
