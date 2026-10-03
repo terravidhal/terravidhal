@@ -115,7 +115,10 @@
 </picture>
 
 <p align="center">
-  <img src="assets/city.svg" alt="Decorative isometric skyline" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/monument-dev-night.svg">
+    <img src="assets/monument-dev.svg" alt="From localhost to production: a small web developer climbs a floating isometric tower, a bridge pivots into place and a lift raises him to a glowing gate" width="100%">
+  </picture>
 </p>
 
 <br>
@@ -133,11 +136,6 @@
   <a href="https://ko-fi.com/terravidhal"><img src="assets/social-ko-fi.svg" alt="Ko-fi" title="Support me on Ko-fi" width="52" height="52"></a>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="assets/footer.svg" alt="Thanks for stopping by" width="100%">
-</p>
 
 <!-- Contribution snake (kept for later — the "GitHub Snake Game" workflow still updates it daily):
 <picture>
