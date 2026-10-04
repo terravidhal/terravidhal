@@ -98,7 +98,7 @@
 
 <table>
   <tr>
-    <td width="50%"><a href="https://marsiledevs.vercel.app/"><img src="assets/card-portfolio.png" alt="Portfolio — marsiledevs" width="100%"></a></td>
+    <td width="50%"><a href="https://terravidhal.me"><img src="assets/card-portfolio.png" alt="Portfolio — terravidhal.me" width="100%"></a></td>
     <td width="50%"><a href="https://blockforge.terravidhal.me"><img src="assets/card-blockforge.png" alt="Blockforge — shadcn/ui blocks" width="100%"></a></td>
   </tr>
   <tr>
