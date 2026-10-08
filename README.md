@@ -9,6 +9,10 @@
 -->
 
 <p align="center">
+  <a href="https://terravidhal.me"><img src="assets/terra-mark.svg" alt="Terra Vidhal logo" title="terravidhal.me" width="88" height="88"></a>
+</p>
+
+<p align="center">
   Fullstack developer — I design, build and ship SaaS products end to end.
 </p>
 
@@ -87,7 +91,7 @@
   </tr>
 </table>
 
-<sub>Logos served by <a href="https://logoforge.terravidhal.me">Logoforge</a> — my open-source set of 970+ brand logos for developers.</sub>
+<sub>Logos served by <a href="https://logoforge.terravidhal.me">Logoforge</a> — my open-source set of 1,000+ brand logos for developers.</sub>
 
 <br><br>
 
