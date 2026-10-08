@@ -9,10 +9,6 @@
 -->
 
 <p align="center">
-  <a href="https://terravidhal.me"><img src="assets/terra-mark.svg" alt="Terra Vidhal logo" title="terravidhal.me" width="88" height="88"></a>
-</p>
-
-<p align="center">
   Fullstack developer — I design, build and ship SaaS products end to end.
 </p>
 
@@ -138,6 +134,8 @@
   <a href="https://x.com/TerraVidhal"><img src="assets/social-x.svg" alt="X" title="X" width="52" height="52"></a>
   &nbsp;
   <a href="https://ko-fi.com/terravidhal"><img src="assets/social-ko-fi.svg" alt="Ko-fi" title="Support me on Ko-fi" width="52" height="52"></a>
+  &nbsp;
+  <a href="https://terravidhal.me"><img src="assets/social-terravidhal.svg" alt="terravidhal.me" title="terravidhal.me — my portfolio" width="52" height="52"></a>
 </p>
 
 
