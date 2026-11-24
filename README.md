@@ -107,6 +107,15 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://terravidhal.me/en/projects">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/btn-all-projects-dark.svg">
+      <img src="assets/btn-all-projects-light.svg" alt="See all my projects on terravidhal.me" height="48">
+    </picture>
+  </a>
+</p>
+
 <br>
 
 <picture>
